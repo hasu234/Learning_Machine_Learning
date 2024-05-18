@@ -1,0 +1,2 @@
+My first line is this in a new file.This is second line, becasue i Use a+ mode
+ This is a real line on a new line
